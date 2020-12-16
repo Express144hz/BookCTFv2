@@ -1,5 +1,6 @@
 # BookCTFv2
-
+Ceux qui sont avec des * sont ceux que je n'ai pas fait et qui sont juste les flags trouvés par d'autres personnes.
+__________________________________________________________
 Web
 __________________________________________________________
 - web0 : BC{always_look_at_the_source}
@@ -10,9 +11,9 @@ __________________________________________________________
 - web4 : BC{it_happens_in_real_life}
 - web5 : BC{captainObvious}
 - web6 : BC{LE_FLAG_TROUVE_EN_MAJ}
-- web7 : BC{oups_c_est_facile_d_include_n_importe_quoi}
-- Fuzzme :
-- Hellfy : BC{Y0u_Sh4ll_n0t_P4TH}
+- web7 : BC{oups_c_est_facile_d_include_n_importe_quoi} *
+- Fuzzme : 
+- Hellfy : BC{Y0u_Sh4ll_n0t_P4TH} *
 - iSequel :
 - web10 :
 - SecurePanel :
@@ -99,7 +100,7 @@ __________________________________________________________
 
 SE
 __________________________________________________________
-- SEPH :
+- SEPH : BC{pp3z:paindepiice} *
 __________________________________________________________
 __________________________________________________________
 
