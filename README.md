@@ -12,7 +12,7 @@ __________________________________________________________
 - web5 : BC{captainObvious}
 - web6 : BC{LE_FLAG_TROUVE_EN_MAJ}
 - web7 : BC{oups_c_est_facile_d_include_n_importe_quoi} *
-- Fuzzme : 
+- Fuzzme : BC{2fu22_5uck5} *
 - Hellfy : BC{Y0u_Sh4ll_n0t_P4TH} *
 - iSequel :
 - web10 :
@@ -40,7 +40,7 @@ __________________________________________________________
 - RSA #1 : BC{s1mpl3_Rs4_1nTr0dUct10n}
 - Dice :
 - xorhtml :
-- RSA #2 :
+- RSA #2 : BC{sm4ll_M0dulU5_15_B4d} *
 __________________________________________________________
 __________________________________________________________
 
